@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}\\gsk_tf_env\\Scripts\\python.exe",
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}\\gsk_tf_env\\Lib\\site-packages",
+        "${workspaceFolder}\\gsk_env\\Lib\\site-packages"
+    ]
+}

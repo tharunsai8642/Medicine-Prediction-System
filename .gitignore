@@ -1,0 +1,4 @@
+*.csv
+__pycache__/
+gsk_env/
+gsk_tf_env/
